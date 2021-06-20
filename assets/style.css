@@ -1,0 +1,9 @@
+/* Start header */
+.custom-header {
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .custom-header-text {
+    font-size: 3rem;
+  }
