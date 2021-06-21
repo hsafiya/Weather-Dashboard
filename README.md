@@ -12,3 +12,5 @@
 
 1. GitHub Repo: https://github.com/hsafiya/Weather-Dashboard
 2. Live Page: https://hsafiya.github.io/Weather-Dashboard/
+
+![GitHub Logo](./assets/images/screen.png)
